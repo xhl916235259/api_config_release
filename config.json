@@ -1,1 +1,3 @@
-{"com.sckh.iphone":{"code":200,"version":"1.0.0","isForcedUpdating":true,"isPop":false,"downloadUrl":null}}
+{"com.sckh.iphone":{"code":200,"version":"1.0.0","isForcedUpdating":true,"isPop":false,"downloadUrl":null},
+  "com.reemii.bjxing.user":{"code":200,"version":"1.0.0","isForcedUpdating":true,"isPop":true,"downloadUrl":null}
+}
